@@ -6,7 +6,7 @@ sites:
   - name: Website
     url: https://team-mir.ai
   - name: Marumie
-    url: https://marumienai.team-mir.ai/o/team-mirai
+    url: https://marumie.team-mir.ai/o/team-mirai
   - name: Mirai Gikai
     url: https://gikai.team-mir.ai
   - name: Action Board
