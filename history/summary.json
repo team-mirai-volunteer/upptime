@@ -6,7 +6,7 @@
     "slug": "website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,25 +15,28 @@
     "timeWeek": 426,
     "timeMonth": 477,
     "timeYear": 477,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-02": 0
+    }
   },
   {
     "name": "Marumie",
     "url": "https://marumie.team-mir.ai/o/team-mirai",
     "icon": "https://icons.duckduckgo.com/ip3/marumie.team-mir.ai.ico",
     "slug": "marumie",
-    "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.90%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 683,
     "timeDay": 1044,
     "timeWeek": 748,
     "timeMonth": 683,
     "timeYear": 683,
     "dailyMinutesDown": {
+      "2025-11-02": 0,
       "2025-10-23": 16
     }
   },
@@ -42,18 +45,19 @@
     "url": "https://gikai.team-mir.ai",
     "icon": "https://icons.duckduckgo.com/ip3/gikai.team-mir.ai.ico",
     "slug": "mirai-gikai",
-    "status": "up",
-    "uptime": "99.89%",
+    "status": "down",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 371,
     "timeDay": 213,
     "timeWeek": 352,
     "timeMonth": 371,
     "timeYear": 371,
     "dailyMinutesDown": {
+      "2025-11-02": 0,
       "2025-10-23": 16
     }
   },
