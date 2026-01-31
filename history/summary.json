@@ -76,19 +76,19 @@
     "url": "https://action.team-mir.ai",
     "icon": "https://icons.duckduckgo.com/ip3/action.team-mir.ai.ico",
     "slug": "action-board",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1707,
-    "timeDay": 1641,
-    "timeWeek": 3270,
-    "timeMonth": 2052,
-    "timeYear": 1707,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.52%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
+    "time": 1706,
+    "timeDay": 1646,
+    "timeWeek": 3135,
+    "timeMonth": 2041,
+    "timeYear": 1706,
     "dailyMinutesDown": {
-      "2026-01-31": 0
+      "2026-01-31": 36
     }
   }
 ]
