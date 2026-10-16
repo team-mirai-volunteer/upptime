@@ -1,7 +1,7 @@
 url: https://action.team-mir.ai
-status: up
-code: 200
-responseTime: 11286
-lastUpdated: 2026-10-16T00:58:51.545Z
+status: down
+code: 500
+responseTime: 33641
+lastUpdated: 2026-10-16T19:02:55.638Z
 startTime: 2025-10-23T04:33:25.287Z
 generator: Upptime <https://github.com/upptime/upptime>
