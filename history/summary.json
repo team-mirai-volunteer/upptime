@@ -12,7 +12,7 @@
     "uptimeYear": "99.16%",
     "time": 333,
     "timeDay": 83,
-    "timeWeek": 187,
+    "timeWeek": 183,
     "timeMonth": 243,
     "timeYear": 333,
     "dailyMinutesDown": {
@@ -37,7 +37,7 @@
     "uptimeYear": "99.43%",
     "time": 1107,
     "timeDay": 1404,
-    "timeWeek": 1424,
+    "timeWeek": 1414,
     "timeMonth": 1509,
     "timeYear": 1107,
     "dailyMinutesDown": {
@@ -61,7 +61,7 @@
     "uptimeYear": "99.43%",
     "time": 750,
     "timeDay": 934,
-    "timeWeek": 805,
+    "timeWeek": 814,
     "timeMonth": 954,
     "timeYear": 750,
     "dailyMinutesDown": {
@@ -78,19 +78,20 @@
     "url": "https://action.team-mir.ai",
     "icon": "https://icons.duckduckgo.com/ip3/action.team-mir.ai.ico",
     "slug": "action-board",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 4544,
-    "timeDay": 11286,
-    "timeWeek": 11254,
-    "timeMonth": 10451,
-    "timeYear": 4544,
+    "time": 4623,
+    "timeDay": 22464,
+    "timeWeek": 14240,
+    "timeMonth": 11199,
+    "timeYear": 4623,
     "dailyMinutesDown": {
-      "2026-01-31": 63
+      "2026-01-31": 63,
+      "2026-10-16": 0
     }
   }
 ]
